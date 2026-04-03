@@ -7,7 +7,7 @@ Este programa gestiona los tiempos de ocio y actividades de un grupo de usuarios
 * Martin Alvarado - 22.330.833-3 - [Martinooski]
 
 ### Estructura
-Lógica centralizada en clase taller_1.java utilizando arreglos paralelos para el almacenamiento en memoria.
+Lógica centralizada en clase Main.java utilizando arreglos paralelos para el almacenamiento en memoria.
 
 ### Instrucciones
 1. Ejecutar Main dentro de un package llamado "taller01".
